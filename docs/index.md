@@ -1,6 +1,6 @@
 # Kate Stadelman's Personal Microsite
 
-![Kate Stadelman](img/linkedin-bkg_data.png)
+![Kate Stadelman](img/linkedin-bkg_data.png){ width="100%" }
 
 ## Welcome!
 
@@ -16,7 +16,7 @@ I was fortunate enough to stumble into a career working with healthcare informat
 
 ### Fetal Cardiotocograph (CTG) Classification
 
-![Kate Stadelman](img/fetal-ctg.jpg){ width="600" }
+![Kate Stadelman](img/fetal-ctg.jpg){ width="50%" }
 
 [Fetal Cardiotocograph (CTG) Classification GitHub Repo](https://github.com/kaspii314/fetal_ctg_classification)
 
