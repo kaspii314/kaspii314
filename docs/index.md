@@ -1,4 +1,4 @@
-# Home
+# Kate Stadelman's Personal Microsite
 
 ![Kate Stadelman](img/linkedin-bkg_data.png)
 
