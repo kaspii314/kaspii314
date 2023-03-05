@@ -1,17 +1,25 @@
-# Welcome to MkDocs
+# Home
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+![Kate Stadelman](img/linkedin-bkg_data.png)
 
-## Commands
+## Welcome!
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+In case we haven't met yet, I'm Kate. I'm just a girl (elder millennial) who loves math and data. 
 
-## Project layout
+For as long as I can remember, I've had an insatiable curiosity to understand the world around me, to figure out the way things work and learn how everything is connected. In my younger years, this meant spending lunch in the school library, looking up my latest knowledge quest in the long row of dusty encyclopedias. When my third-grade teacher let us choose whichever topic we wanted for our first report, I picked the combustion engine because my nine-year-old self couldn’t wrap my mind around how the wheels of our box Toyota minivan magically turned all by themselves.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+As time passed, this hunger for answers evolved into a passion for math and turning data into information. I studied mathematics for my undergraduate degree at Colorado Mesa University, working part-time for the head of the Department of Business. Over the summer, I worked in a cramped closet of a room with floor-to-ceiling shelves of binders, pages and pages of local economic data. My task was to catalog all this and turn it into something useful. I created my first database. The embers ignited.
+
+I was fortunate enough to stumble into a career working with healthcare information and supporting payor systems. In the past decade, I've had the pleasure of tackling many rewarding problems, specializing in data engineering and warehousing, as well as advanced analytics. Recently, I obtained my Master’s of Science in Data Science from the University of Denver, and I am excited to be a part of the AI/ML transformation of our future.
+
+## Projects
+
+### Fetal Cardiotocograph (CTG) Classification
+
+![Kate Stadelman](img/fetal-ctg.jpg){ width="600" }
+
+[Fetal Cardiotocograph (CTG) Classification GitHub Repo](https://github.com/kaspii314/fetal_ctg_classification)
+
+Used during pregnancy to monitor fetal heart rate and uterine contractions, cardiotocography (CTG) tests allow early detection of fetal distress. Typically, CTGs are manually reviewed by obstetricians and midwives (Figure 1). One criticism of this diagnostic tool is the tendency for the same CTG to receive different interpretations depending on the reviewer (high inter-observer variability rate) (Prior & Lees, 2019). An automated, reliable method for reading CTGs would empower expectant mothers with the knowledge they need while also reducing burden on their clinical teams.
+
+The purpose of this research project is to leverage machine learning to interpret CTGs. We explore feature extraction methods and classification algorithms in pursuit of our research question: How do Random Forest, Logistic Regression, and K-Nearest Neighbors compare in predicting normal vs. abnormal CTG results given test metrics?
