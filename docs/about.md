@@ -1,6 +1,6 @@
 # About
 
-![Kate Stadelman](img/kate_stadelman.png){ width="300", align="right" }
+![Kate Stadelman](img/kate_stadelman.png){ width="25%", align="right" }
 
 **Areas of Expertise**: Data Science, Engineering, & Analytics
  
