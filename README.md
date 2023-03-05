@@ -1,4 +1,4 @@
-Check out my [personal documentation page](https://kaspii314.github.io/kaspii314/).
+Check out my [personal microsite](https://kaspii314.github.io/kaspii314/).
 
 <!--
 **kaspii314/kaspii314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
