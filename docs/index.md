@@ -1,26 +1,25 @@
-# Kate Stadelman
- 
-<img src="https://github.com/kaspii314/kaspii314/blob/assets/assets/kate_stadelman.png" width="400" height="534">
- 
-**Areas of Expertise:** Data Science, Engineering, & Analytics
- 
-## Current Role
- 
-As a Senior Prinicpal Engineer, TLCP for Optum Technology, my core job responsibilities currently revolve around our new enterprise configuration management database (CMDB): I provide technical leadership over data architecture and data access solutions, as well as administer our infrastructure and workloads. I lead development for data ingestion, with sources ranging from event streams, APIs, and batch files to every flavor of database. Furthermore, I am accountable for the data strategy and technical execution of decommissioning our legacy CMDBs.
- 
-In addition to data wrangling and engineering, my duties include data science and analytic initiatives. I performed topic modeling (NLP) of IT incident and problem records to identify automation and self-healing opportunities for our infrastructure teams and graph analysis of network traffic for the implementation of micro-segmentation.
- 
- 
-## About
- 
-*Senior Principal Engineer with 12+ years of experience providing business value through data-driven solutions. Proven skills in data engineering and warehousing, advanced analytics, and data science. Builds strong teams through technical guidance and mentorship. Repeatedly recognized for high performance.*
- 
-Years ago, when I accepted a role as a Provider Contract Analyst at Rocky Mountain Health Plans (a UnitedHealthcare company), I never would have guessed it would lead to such a rewarding career. In the past decade, I have been fortunate enough to work on a variety of complex, challenging problems in this dynamic industry.
- 
-* Architected and drove benefit configuration implementation for ICD-10 conversion
-* Provided guidance, analysis, and solutions for ACA Risk Adjustment and Cost-Share Reduction Reconciliation
-* Lead the technical design, development, and management of data warehousing and business intelligence functions
-* Developed scalable, automated analytical reporting suites for measuring Accountable Care Organization product performance and facilitating population health management
-* Designed and taught bi-weekly SQL classes for healthcare analyst team members
-* Leadership team member for a cross-departmental data analyst workgroup, which held monthly events with speakers and exercises to galvanize and grow our data analyst community
-* Mentor for Women in Analytics & Data Science and Optum Tech University
+# Home
+
+![Kate Stadelman](img/linkedin-bkg_data.png)
+
+## Welcome!
+
+In case we haven't met yet, I'm Kate. I'm just a girl (elder millennial) who loves math and data. 
+
+For as long as I can remember, I've had an insatiable curiosity to understand the world around me, to figure out the way things work and learn how everything is connected. In my younger years, this meant spending lunch in the school library, looking up my latest knowledge quest in the long row of dusty encyclopedias. When my third-grade teacher let us choose whichever topic we wanted for our first report, I picked the combustion engine because my nine-year-old self couldn’t wrap my mind around how the wheels of our box Toyota minivan magically turned all by themselves.
+
+As time passed, this hunger for answers evolved into a passion for math and turning data into information. I studied mathematics for my undergraduate degree at Colorado Mesa University, working part-time for the head of the Department of Business. Over the summer, I worked in a cramped closet of a room with floor-to-ceiling shelves of binders, pages and pages of local economic data. My task was to catalog all this and turn it into something useful. I created my first database. The embers ignited.
+
+I was fortunate enough to stumble into a career working with healthcare information and supporting payor systems. In the past decade, I've had the pleasure of tackling many rewarding problems, specializing in data engineering and warehousing, as well as advanced analytics. Recently, I obtained my Master’s of Science in Data Science from the University of Denver, and I am excited to be a part of the AI/ML transformation of our future.
+
+## Projects
+
+### Fetal Cardiotocograph (CTG) Classification
+
+![Kate Stadelman](img/fetal-ctg.jpg){ width="600" }
+
+[Fetal Cardiotocograph (CTG) Classification GitHub Repo](https://github.com/kaspii314/fetal_ctg_classification)
+
+Used during pregnancy to monitor fetal heart rate and uterine contractions, cardiotocography (CTG) tests allow early detection of fetal distress. Typically, CTGs are manually reviewed by obstetricians and midwives (Figure 1). One criticism of this diagnostic tool is the tendency for the same CTG to receive different interpretations depending on the reviewer (high inter-observer variability rate) (Prior & Lees, 2019). An automated, reliable method for reading CTGs would empower expectant mothers with the knowledge they need while also reducing burden on their clinical teams.
+
+The purpose of this research project is to leverage machine learning to interpret CTGs. We explore feature extraction methods and classification algorithms in pursuit of our research question: How do Random Forest, Logistic Regression, and K-Nearest Neighbors compare in predicting normal vs. abnormal CTG results given test metrics?
