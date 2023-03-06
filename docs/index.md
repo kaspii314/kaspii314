@@ -12,7 +12,7 @@ As time passed, this hunger for answers evolved into a passion for math and turn
 
 I was fortunate enough to stumble into a career working with healthcare information and supporting payor systems. In the past decade, I've had the pleasure of tackling many rewarding problems, specializing in data engineering and warehousing, as well as advanced analytics. Recently, I obtained my Master’s of Science in Data Science from the University of Denver, and I am excited to be a part of the AI/ML transformation of our future.
 
-## Projects
+## Sample Projects
 
 ### Fetal Cardiotocograph (CTG) Classification
 
@@ -23,3 +23,11 @@ I was fortunate enough to stumble into a career working with healthcare informat
 Used during pregnancy to monitor fetal heart rate and uterine contractions, cardiotocography (CTG) tests allow early detection of fetal distress. Typically, CTGs are manually reviewed by obstetricians and midwives (Figure 1). One criticism of this diagnostic tool is the tendency for the same CTG to receive different interpretations depending on the reviewer (high inter-observer variability rate) (Prior & Lees, 2019). An automated, reliable method for reading CTGs would empower expectant mothers with the knowledge they need while also reducing burden on their clinical teams.
 
 The purpose of this research project is to leverage machine learning to interpret CTGs. We explore feature extraction methods and classification algorithms in pursuit of our research question: How do Random Forest, Logistic Regression, and K-Nearest Neighbors compare in predicting normal vs. abnormal CTG results given test metrics?
+
+### Network Traffic Botnet Classification
+
+![Kate Stadelman](img/botnet.jpg){ width="50%" }
+
+[Network Traffic Botnet Classification GitHub Repo](https://github.com/kaspii314/network_traffic_botnet_classification)
+
+In today’s digital age, cyber security has become a primary concern for business. While threats come in many forms, a Distributed Denial-of-Service (DDoS) attack may render a business’ digital services unusable, costing millions. It is essential that harmful network traffic is identified and blocked as quickly as possible, without disrupting normal network traffic. This is a fundamental capability of many cyber protection solutions, and in this peojct, we utilize random forest to distinguish harmful botnet traffic from network traffic.
