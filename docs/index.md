@@ -39,3 +39,13 @@ The purpose of this research project is to leverage machine learning to interpre
 [Network Traffic Botnet Classification GitHub Repo](https://github.com/kaspii314/network_traffic_botnet_classification)
 
 A Distributed Denial-of-Service (DDoS) attack may render a business’ digital services unusable, costing millions. Harmful network traffic must be identified and blocked as quickly as possible, without disrupting normal network traffic. This is a fundamental capability of many cyber protection solutions, and in this project, we utilize Random Forest to distinguish harmful botnet traffic from normal network traffic.
+
+### Data Science Charchuterie
+
+![Kate Stadelman](img/charcuterie.jpg){ width="50%" }
+
+Photo by <a href="https://unsplash.com/@antomeneghini?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Anto Meneghini</a> on <a href="https://unsplash.com/photos/YiaDJAjD1S0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+[Data Science Charchuterie GitHub Repo](https://github.com/kaspii314/data_science_charcuterie)
+
+Explore flavors of data science flavors wite me, including classic algorithms and techniques for clustering, regression, and classification! This repo is intended for data science beginners who would like working examples of basic unsupervised and supervised machine learning techniques.
