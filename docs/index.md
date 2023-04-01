@@ -28,7 +28,7 @@ In today’s digital age, cybersecurity has become a primary concern for busines
 
 [Fetal Cardiotocograph (CTG) Classification GitHub Repo](https://github.com/kaspii314/fetal_ctg_classification)
 
-Used during pregnancy to monitor fetal heart rate and uterine contractions, cardiotocography (CTG) tests allow early detection of fetal distress. Typically, CTGs are manually reviewed by obstetricians and midwives (Figure 1). One criticism of this diagnostic tool is the tendency for the same CTG to receive different interpretations depending on the reviewer (high inter-observer variability rate) (Prior & Lees, 2019). An automated, reliable method for reading CTGs would empower expectant mothers with the knowledge they need while also reducing burden on their clinical teams.
+Used during pregnancy to monitor fetal heart rate and uterine contractions, cardiotocography (CTG) tests allow early detection of fetal distress. Typically, CTGs are manually reviewed by obstetricians and midwives. One criticism of this diagnostic tool is the tendency for the same CTG to receive different interpretations depending on the reviewer (high inter-observer variability rate). An automated, reliable method for reading CTGs would empower expectant mothers with the knowledge they need while also reducing burden on their clinical teams.
 
 The purpose of this research project is to leverage machine learning to interpret CTGs. We explore feature extraction methods and classification algorithms in pursuit of our research question: How do Random Forest, Logistic Regression, and K-Nearest Neighbors compare in predicting normal vs. abnormal CTG results given test metrics?
 
@@ -38,7 +38,7 @@ The purpose of this research project is to leverage machine learning to interpre
 
 [Network Traffic Botnet Classification GitHub Repo](https://github.com/kaspii314/network_traffic_botnet_classification)
 
-In today’s digital age, cyber security has become a primary concern for business. While threats come in many forms, a Distributed Denial-of-Service (DDoS) attack may render a business’ digital services unusable, costing millions. It is essential that harmful network traffic is identified and blocked as quickly as possible, without disrupting normal network traffic. This is a fundamental capability of many cyber protection solutions, and in this peojct, we utilize random forest to distinguish harmful botnet traffic from network traffic.
+A Distributed Denial-of-Service (DDoS) attack may render a business’ digital services unusable, costing millions. Harmful network traffic must be identified and blocked as quickly as possible, without disrupting normal network traffic. This is a fundamental capability of many cyber protection solutions, and in this project, we utilize Random Forest to distinguish harmful botnet traffic from normal network traffic.
 
 ### Data Science Charchuterie
 
