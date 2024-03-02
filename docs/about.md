@@ -4,11 +4,11 @@
 
 **Areas of Expertise**: Data Science, Engineering, & Analytics
  
-*Distinguished Engineer (Accredited) with 12+ years of experience providing business value through data-driven solutions. Proven skills in data engineering and warehousing, advanced analytics, and data science. Builds strong teams through technical guidance and mentorship. Repeatedly recognized for high performance.*
+*Distinguished Engineer with 15+ years of experience providing business value through data-driven solutions. Proven skills in data engineering and warehousing, advanced analytics, and data science. Builds strong teams through technical guidance and mentorship. Repeatedly recognized for high performance.*
 
 ### Current Role
  
-As a Distinguished Engineer, TLCP (Accredited) for Optum Technology (UnitedHealth Group), my core job responsibilities currently revolve around our new enterprise configuration management database (CMDB): I provide technical leadership over data architecture and data access solutions, as well as administer our infrastructure and workloads. I lead development for data ingestion, with sources ranging from event streams, APIs, and batch files to every flavor of database. Furthermore, I am accountable for the data strategy and technical execution of decommissioning our legacy CMDBs.
+As a Distinguished Engineer, TLCP for Optum Technology (UnitedHealth Group), my core job responsibilities currently revolve around our new enterprise configuration management database (CMDB): I provide technical leadership over data architecture and data access solutions, as well as administer our infrastructure and workloads. I lead development for data ingestion, with sources ranging from event streams, APIs, and batch files to every flavor of database. Furthermore, I am accountable for the data strategy and technical execution of decommissioning our legacy CMDBs.
  
 In addition to data wrangling and engineering, my duties include data science and analytic initiatives. I performed topic modeling (NLP) of IT incident and problem records to identify automation and self-healing opportunities for our infrastructure teams and graph analysis of network traffic for the implementation of micro-segmentation.
 
