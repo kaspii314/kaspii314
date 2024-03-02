@@ -16,7 +16,7 @@ I was fortunate enough to stumble into a career working with healthcare informat
 
 ### Topic Modeling: Latent Dirichlet Allocation vs. BERTopic
 
-![Kate Stadelman](img/bertopic.jpg){ width="50%" }
+![Kate Stadelman](img/bertopic.png){ width="50%" }
 
 [Topic Modeling GitHub Repo](https://github.com/kaspii314/topic_modeling)
 
