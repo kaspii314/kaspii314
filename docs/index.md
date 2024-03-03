@@ -14,7 +14,7 @@ I was fortunate enough to stumble into a career working with healthcare informat
 
 ## Sample Projects
 
-### Topic Modeling: Latent Dirichlet Allocation vs. BERTopic
+### Topic Modeling: Latent Dirichlet Allocation (LDA) vs. BERTopic
 
 ![Kate Stadelman](img/bertopic.png){ width="50%" }
 
