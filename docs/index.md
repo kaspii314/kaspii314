@@ -1,16 +1,115 @@
 # Kate Stadelman's Personal Microsite
 
-![Kate Stadelman](img/linkedin-bkg_data.png){ width="100%" }
+## About
 
-## Welcome!
+![Kate Stadelman](img/kate_stadelman.png){ width="25%", align="right" }
 
-In case we haven't met yet, I'm Kate. I'm just a girl (elder millennial) who loves math and data. 
+[:fontawesome-brands-linkedin:](https://www.linkedin.com/in/kate-stadelman/) &nbsp; [:fontawesome-brands-github:](https://github.com/kaspii314)
 
-For as long as I can remember, I've had an insatiable curiosity to understand the world around me, to figure out the way things work and learn how everything is connected. In my younger years, this meant spending lunch in the school library, looking up my latest knowledge quest in the long row of dusty encyclopedias. When my third-grade teacher let us choose whichever topic we wanted for our first report, I picked the combustion engine because my nine-year-old self couldn’t wrap my mind around how the wheels of our box Toyota minivan magically turned all by themselves.
+**Areas of Expertise**: AI/ML, Data Engineering, & Analytics
+ 
+*Chief Analytics Officer and Distinguished Engineer with 15+ years of experience providing business value through data-driven solutions. Expertise in AI/ML, Data Engineering, & Analytics. Builds strong teams through technical guidance and mentorship. Repeatedly recognized for high performance.*
 
-As time passed, this hunger for answers evolved into a passion for math and turning data into information. I studied mathematics for my undergraduate degree at Colorado Mesa University, working part-time for the head of the Department of Business. Over the summer, I worked in a cramped closet of a room with floor-to-ceiling shelves of binders, pages and pages of local economic data. My task was to catalog all this and turn it into something useful. I created my first database. The embers ignited.
+For as long as I can remember, I've wanted to understand the world around me, to figure out the way things work and learn how everything is connected. In my younger years, this meant spending many a lunch in the school library. When my third-grade teacher let us choose whichever topic we wanted for our first report, I picked the combustion engine because my nine-year-old self couldn’t wrap my mind around how the wheels of our box Toyota minivan magically turned all by themselves.
 
-I was fortunate enough to stumble into a career working with healthcare information and supporting payor systems. In the past decade, I've had the pleasure of tackling many rewarding problems, specializing in data engineering and warehousing, as well as advanced analytics. Recently, I obtained my Master’s of Science in Data Science from the University of Denver, and I am excited to be a part of the AI/ML transformation of our future.
+This quest for answers evolved into a passion for math and turning data into information. I studied mathematics for my undergraduate degree at Colorado Mesa University, working part-time for the head of the Department of Business. Over the summer, I worked in a cramped closet of a room with floor-to-ceiling shelves of binders, pages and pages of local economic data. My task was to catalog all this and turn it into something useful. I created my first database. The embers ignited.
+
+I was fortunate enough to stumble into a career working with healthcare information and supporting payor systems. Over the past 15 years, I've had the pleasure of tackling many complex and rewarding problems, from implementing the ACA and ICD-10 to building a next-generation enterprise IT configuration management data warehouse for the largest healthcare company in the world.
+
+Several years ago, I I obtained my Master’s of Science in Data Science from the University of Denver, which sparked a passion for Natual Language Processing (NLP), Large Language Models (LLMs), and Generative AI. , where I’ve built innovative solutions like conversational agents using Retrieval-Augmented Generation (RAG) frameworks, provider contract ingestion engines that use LLMs to interpret complex contracts, and long document summarization tools to streamline insights. 
+
+I'm currently the Chief Analytics Officer & Distigusihed Engineer at HealthRate, an innovative insurtech platform designed to bring transparency and clarity to the most complex and costly healthcare claims. We were honored Best in Show in the Emerge Innovation Experience Contest at HIMSS25 for our groundbreaking work in Improving Data & Analytics Capabilities and Reach in the Payer category.
+
+
+## Experience
+
+### HealthRate
+
+#### Chief Analytics Officer & Distinguished Engineer | Sep 2024 - Present
+
+
+
+### DelStongo
+
+#### Co-Founder | Jan 2024 - Present
+
+- 
+
+### Optum
+
+#### Distinguished Engineer | May 2023 - Sep 2024
+- Built a next-generation enterprise IT configuration management data warehouse, sourcing event streams, APIs, and database systems, increasing entities tracked from 350K to 16M in 18 months. Enhanced data architecture to maintain full record history and data linage with refreshes every five minutes for volatile sources and nightly data validations with 100% coverage.
+- Developed a ServiceNow ITSM conversational agent to reduce recovery time during IT outages using a Retrieval-Augmented Generation (RAG) framework. Enhanced semantic search with a custom data index and retriever for prompts referencing enterprise-specific identifiers.
+
+#### Senior Principal Engineer | Aug 2020 - May 2023
+- Topic modeling (NLP) of IT incident and problem records, providing insight into operational pain points and automation opportunities.
+- Graph analysis of network traffic for implementation of micro-segmentation.
+- Engineered an automated quality assurance BI solution that delivered critical insights into data integrity for a newly implemented infrastructure asset inventory system, playing a key role in driving a strategic shift.
+- Administration of Azure CosmosDB for MongoDB.
+- Mentor for Women in Analytics & Data Science and Optum Tech University.
+
+#### Medica
+
+#### Director Business Intelligence | Nov 2019 - Aug 2020
+- Developed a multi-year data and analytics strategy with roadmaps for core data standardization, data architecture, data governance, and BI technologies.
+- Implemented Agile Scrum and resource capacity planning, increasing team cohesion and transparency for business stakeholders.
+- Leadership team member for a cross-departmental data analyst workgroup, which held monthly events with speakers and exercises to galvanize and grow our data analyst community.
+
+#### Finance Manager | May 2018 - Nov 2019
+- Standardized and automated physician reimbursement processes, achieving a 26% increase in team productivity over 18 months.
+- Designed and taught bi-weekly SQL classes for healthcare analyst team members.
+
+#### Provider Measurement Analyst Lead | Nov 2017 - May 2018
+- Developed scalable, automated analytical reporting suites for measuring Individual & Family Business Accountable Care Organization product performance and facilitating population health management.
+
+
+### Rocky Mountain Health Plans
+
+#### Senior Manager Data Services | Jan 2016 - Nov 2017
+- Reported to Chief Information Officer, managing the architecture, development, and quality of data warehousing and business intelligence functions.
+- Collaborated with business, development, and system infrastructure to improve business processes and build innovative and scalable analytic tools.
+- Exchanged and integrated enrollment, provider, claims, prior authorization, and other healthcare data from disparate sources.
+- Established and led an enterprise data governance program.
+
+#### Manager Member Benefit Configuration & Business Analysis | May 2014 - Jan 2016
+- Architected and drove benefit configuration implementation for ICD-10 conversion.
+- Collaborated with Sales & Marketing management to design benefit packages that could be implemented smoothly and systematically, including specialized pilot programs.
+- Managed the configuration and QA of member benefit plans, member accumulators, prior authorizations, and medical code sets (CPT/HCPCS/ICD-9/ICD-10) and mappings.
+
+#### Senior Health Care Economic Analyst | Feb 2013 - May 2014
+- Provided guidance, analysis, and solutions for ACA Risk Adjustment and Cost-Share Reduction Reconciliation.
+- Produced analysis on provider network, member enrollment, and claims and encounter data, including reports for Medicaid ASO Payment Reconciliation.
+- Developed models to determine revenue impacts of provider contract proposals and compare market standard provider reimbursement methodologies.
+
+#### Validation & Testing Analyst | Apr 2012 - Feb 2013
+- Designed and automated test plans for medical and drug products, provider contracts, and provider fee schedules, making system validations more thorough, accurate, and efficient.
+- Designed and automated test plans for medical and drug products, provider contracts, and provider fee schedules, making system validations more thorough, accurate, and efficient.
+
+####  Contract Configuration Analyst | Feb 2011 - Apr 2012
+- Built research tools to gather and analyze system data, including claims, provider records, provider agreements, fee schedules, member records, and medical products.
+- Configured provider contracts and fee schedules using NetworX and Facets.
+
+### Colorado Mesa University
+
+#### Research | 2003 - 2006
+- Department of Business: Developed and maintained database of key Mesa County and City of Grand Junction economic indicators and produced quarterly newsletter.
+- Department of Biology: Developed algorithm to determine the sample period necessary to detect significant spatial structure in butterfly communities with ecological indices.
+- Department of Mathematics: Analyzed limitations of first-order language using Ehrenfeucht-Fraissé Games.
+
+## Education
+
+**MS in Data Science**, University of Denver, 2022
+
+  * 4.0 GPA
+  * Student Ambassador
+
+**BS in Mathematics**, Colorado Mesa University, 2006
+
+  * 4.0 GPA, *Summa Cum Laude*
+  * Major Field Test for Mathematics, Top 10% Nationally
+  * Outstanding Math Graduate, 2006
+  * National Merit Scholar, 2002
+
 
 ## Sample Projects
 
@@ -57,3 +156,5 @@ Photo by <a href="https://unsplash.com/@antomeneghini?utm_source=unsplash&utm_me
 [Data Science Charchuterie GitHub Repo](https://github.com/kaspii314/data_science_charcuterie)
 
 Explore flavors of data science flavors wite me, including classic algorithms and techniques for clustering, regression, and classification! This repo is intended for data science beginners who would like a few data mining examples to get started.
+
+![Kate Stadelman](img/linkedin-bkg_data.png){ width="100%" }

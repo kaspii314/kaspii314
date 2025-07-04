@@ -1,7 +1,6 @@
 site_name: Kate Stadelman's Personal Microsite
 nav:
     - Home: index.md
-    - About: about.md
 
 theme:
   name: material
@@ -55,4 +54,4 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 copyright: |
-  &copy; 2023 <a href="https://github.com/kaspii314"  target="_blank" rel="noopener">Kate Stadelman</a>
+  &copy; 2025 <a href="https://github.com/kaspii314"  target="_blank" rel="noopener">Kate Stadelman</a>
