@@ -6,7 +6,7 @@
 
 **Areas of Expertise**: AI/ML, Data Engineering, & Analytics
 
-As Chief Analytics Officer & Distinguished Engineer at HealthRate, I lead the development of innovative technology that brings clarity to some of healthcare’s most complex and costly claims. Our work earned Best in Show at HIMSS25’s Emerge Innovation Experience Contest in the Payer category for advancing data and analytics capabilities. With over 15 years of experience in AI/ML, data engineering, and analytics, I've worked across the healthcare ecosystem to deliver data-driven solutions that create real business value.
+As Chief Analytics Officer & Distinguished Engineer at HealthRate, I lead the development of innovative technology that brings clarity to some of healthcare’s most complex and costly claims. Our work earned Best in Show at HIMSS25's Emerge Innovation Experience Contest in the Payer category for advancing data and analytics capabilities. With over 15 years of experience in AI/ML, data engineering, and analytics, I've worked across the healthcare ecosystem to deliver data-driven solutions that create real business value.
 
 My journey into data started with curiosity. In third grade, I could not understand how the wheels on our Toyota minivan turned on their own, so I wrote a report on combustion engines. That curiosity evolved into a career focused on understanding how things work, and more importantly, how to make them work better through data and technology.
 
@@ -22,7 +22,8 @@ I welcome connections to collaborate, share ideas, or discuss opportunities in d
 
 **Chief Analytics Officer & Distinguished Engineer**, Sep 2024 - Present
 
-- Developed a cloud SaaS statistical platform using Monte Carlo simulations to compare healthcare specialty networks, optimizing high-cost claim scenarios.
+- Developed a cloud SaaS statistical platform that uses Monte Carlo simulations to compare healthcare specialty networks, optimizing high-cost claim scenarios.
+- Won Best in Show at HIMSS25's Emerge Innovation Experience Contest in the Payer category for advancing data and analytics capabilities.
 - Built an LLM-powered provider contract ingestion engine, processing thousands of contracts into a proprietary data model.
 - Engineered a multi-tenant data warehouse and data management platform, enhancing scalability and data integrity.
 - Automated CI/CD release pipeline with comprehensive regression testing, ensuring secure tenant configuration.
