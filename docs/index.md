@@ -7,39 +7,30 @@
 [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/kate-stadelman/) &nbsp; [:fontawesome-brands-github:](https://github.com/kaspii314)
 
 **Areas of Expertise**: AI/ML, Data Engineering, & Analytics
- 
-*Chief Analytics Officer and Distinguished Engineer with 15+ years of experience providing business value through data-driven solutions. Expertise in AI/ML, Data Engineering, & Analytics. Builds strong teams through technical guidance and mentorship. Repeatedly recognized for high performance.*
 
-For as long as I can remember, I've wanted to understand the world around me, to figure out the way things work and learn how everything is connected. In my younger years, this meant spending many a lunch in the school library. When my third-grade teacher let us choose whichever topic we wanted for our first report, I picked the combustion engine because my nine-year-old self couldn’t wrap my mind around how the wheels of our box Toyota minivan magically turned all by themselves.
+As Chief Analytics Officer & Distinguished Engineer at HealthRate, I lead the development of innovative technology that brings clarity to some of healthcare’s most complex and costly claims. Our work earned Best in Show at HIMSS25’s Emerge Innovation Experience Contest in the Payer category for advancing data and analytics capabilities. With over 15 years of experience in AI/ML, data engineering, and analytics, I've worked across the healthcare ecosystem to deliver data-driven solutions that create real business value.
 
-This quest for answers evolved into a passion for math and turning data into information. I studied mathematics for my undergraduate degree at Colorado Mesa University, working part-time for the head of the Department of Business. Over the summer, I worked in a cramped closet of a room with floor-to-ceiling shelves of binders, pages and pages of local economic data. My task was to catalog all this and turn it into something useful. I created my first database. The embers ignited.
+My journey into data started with curiosity. In third grade, I could not understand how the wheels on our Toyota minivan turned on their own, so I wrote a report on combustion engines. That curiosity evolved into a career focused on understanding how things work, and more importantly, how to make them work better through data and technology.
 
-I was fortunate enough to stumble into a career working with healthcare information and supporting payor systems. Over the past 15 years, I've had the pleasure of tackling many complex and rewarding problems, from implementing the ACA and ICD-10 to building a next-generation enterprise IT configuration management data warehouse for the largest healthcare company in the world.
+Over the years, I have led initiatives ranging from ACA and ICD-10 implementations to building a next-generation IT configuration management data warehouse for the largest healthcare company in the world. My recent work focuses on advancing Natural Language Processing (NLP) and Generative AI, including conversational agents using Retrieval-Augmented Generation (RAG), an LLM-powered provider contract ingestion engine, and long document summarization tools.
 
-Several years ago, I I obtained my Master’s of Science in Data Science from the University of Denver, which sparked a passion for Natual Language Processing (NLP), Large Language Models (LLMs), and Generative AI. , where I’ve built innovative solutions like conversational agents using Retrieval-Augmented Generation (RAG) frameworks, provider contract ingestion engines that use LLMs to interpret complex contracts, and long document summarization tools to streamline insights. 
-
-I'm currently the Chief Analytics Officer & Distigusihed Engineer at HealthRate, an innovative insurtech platform designed to bring transparency and clarity to the most complex and costly healthcare claims. We were honored Best in Show in the Emerge Innovation Experience Contest at HIMSS25 for our groundbreaking work in Improving Data & Analytics Capabilities and Reach in the Payer category.
+I welcome connections to collaborate, share ideas, or discuss opportunities in data-driven innovation.
 
 
 ## Experience
 
 ### HealthRate
-
 #### Chief Analytics Officer & Distinguished Engineer | Sep 2024 - Present
-
-
-
-### DelStongo
-
-#### Co-Founder | Jan 2024 - Present
-
-- 
+- Developed a cloud SaaS statistical platform using Monte Carlo simulations to compare healthcare specialty networks, optimizing high-cost claim scenarios.
+- Built an LLM-powered provider contract ingestion engine, processing thousands of contracts into a proprietary data model.
+- Engineered a multi-tenant data warehouse and data management platform, enhancing scalability and data integrity.
+- Automated CI/CD release pipeline with comprehensive regression testing, ensuring secure tenant configuration.
 
 ### Optum
-
 #### Distinguished Engineer | May 2023 - Sep 2024
-- Built a next-generation enterprise IT configuration management data warehouse, sourcing event streams, APIs, and database systems, increasing entities tracked from 350K to 16M in 18 months. Enhanced data architecture to maintain full record history and data linage with refreshes every five minutes for volatile sources and nightly data validations with 100% coverage.
-- Developed a ServiceNow ITSM conversational agent to reduce recovery time during IT outages using a Retrieval-Augmented Generation (RAG) framework. Enhanced semantic search with a custom data index and retriever for prompts referencing enterprise-specific identifiers.
+- Built a next-generation enterprise IT configuration management data warehouse – sourcing event streams, APIs, and database systems  – increasing entities tracked from 350K to 16M in 18 months. 
+- Enhanced data architecture to maintain full record history and lineage with refreshes every five minutes for volatile sources and nightly data validations with 100% coverage.
+- Developed a ServiceNow ITSM conversational agent to reduce recovery time during IT outages using a Retrieval-Augmented Generation (RAG) framework with custom data indexes and retriever for prompts referencing enterprise-specific identifiers.
 
 #### Senior Principal Engineer | Aug 2020 - May 2023
 - Topic modeling (NLP) of IT incident and problem records, providing insight into operational pain points and automation opportunities.
@@ -49,11 +40,10 @@ I'm currently the Chief Analytics Officer & Distigusihed Engineer at HealthRate,
 - Mentor for Women in Analytics & Data Science and Optum Tech University.
 
 #### Medica
-
 #### Director Business Intelligence | Nov 2019 - Aug 2020
 - Developed a multi-year data and analytics strategy with roadmaps for core data standardization, data architecture, data governance, and BI technologies.
 - Implemented Agile Scrum and resource capacity planning, increasing team cohesion and transparency for business stakeholders.
-- Leadership team member for a cross-departmental data analyst workgroup, which held monthly events with speakers and exercises to galvanize and grow our data analyst community.
+- Led a cross-departmental data analyst workgroup, hosting monthly events with speakers and exercises to strengthen and expand the data analyst community.
 
 #### Finance Manager | May 2018 - Nov 2019
 - Standardized and automated physician reimbursement processes, achieving a 26% increase in team productivity over 18 months.
@@ -62,9 +52,7 @@ I'm currently the Chief Analytics Officer & Distigusihed Engineer at HealthRate,
 #### Provider Measurement Analyst Lead | Nov 2017 - May 2018
 - Developed scalable, automated analytical reporting suites for measuring Individual & Family Business Accountable Care Organization product performance and facilitating population health management.
 
-
 ### Rocky Mountain Health Plans
-
 #### Senior Manager Data Services | Jan 2016 - Nov 2017
 - Reported to Chief Information Officer, managing the architecture, development, and quality of data warehousing and business intelligence functions.
 - Collaborated with business, development, and system infrastructure to improve business processes and build innovative and scalable analytic tools.
@@ -83,7 +71,6 @@ I'm currently the Chief Analytics Officer & Distigusihed Engineer at HealthRate,
 
 #### Validation & Testing Analyst | Apr 2012 - Feb 2013
 - Designed and automated test plans for medical and drug products, provider contracts, and provider fee schedules, making system validations more thorough, accurate, and efficient.
-- Designed and automated test plans for medical and drug products, provider contracts, and provider fee schedules, making system validations more thorough, accurate, and efficient.
 
 ####  Contract Configuration Analyst | Feb 2011 - Apr 2012
 - Built research tools to gather and analyze system data, including claims, provider records, provider agreements, fee schedules, member records, and medical products.
@@ -95,6 +82,7 @@ I'm currently the Chief Analytics Officer & Distigusihed Engineer at HealthRate,
 - Department of Business: Developed and maintained database of key Mesa County and City of Grand Junction economic indicators and produced quarterly newsletter.
 - Department of Biology: Developed algorithm to determine the sample period necessary to detect significant spatial structure in butterfly communities with ecological indices.
 - Department of Mathematics: Analyzed limitations of first-order language using Ehrenfeucht-Fraissé Games.
+
 
 ## Education
 
