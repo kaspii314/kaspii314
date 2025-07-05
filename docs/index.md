@@ -2,9 +2,9 @@
 
 ## About
 
-![Kate Stadelman](img/kate_stadelman.png){ width="25%", align="right" }
-
 [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/kate-stadelman/) &nbsp; [:fontawesome-brands-github:](https://github.com/kaspii314)
+
+![Kate Stadelman](img/kate_stadelman.png){ width="25%", align="right" }
 
 **Areas of Expertise**: AI/ML, Data Engineering, & Analytics
 
@@ -20,19 +20,19 @@ I welcome connections to collaborate, share ideas, or discuss opportunities in d
 ## Experience
 
 ### HealthRate
-#### Chief Analytics Officer & Distinguished Engineer | Sep 2024 - Present
+**Chief Analytics Officer & Distinguished Engineer**, Sep 2024 - Present
 - Developed a cloud SaaS statistical platform using Monte Carlo simulations to compare healthcare specialty networks, optimizing high-cost claim scenarios.
 - Built an LLM-powered provider contract ingestion engine, processing thousands of contracts into a proprietary data model.
 - Engineered a multi-tenant data warehouse and data management platform, enhancing scalability and data integrity.
 - Automated CI/CD release pipeline with comprehensive regression testing, ensuring secure tenant configuration.
 
 ### Optum
-#### Distinguished Engineer | May 2023 - Sep 2024
+**Distinguished Engineer**, May 2023 - Sep 2024
 - Built a next-generation enterprise IT configuration management data warehouse – sourcing event streams, APIs, and database systems  – increasing entities tracked from 350K to 16M in 18 months. 
 - Enhanced data architecture to maintain full record history and lineage with refreshes every five minutes for volatile sources and nightly data validations with 100% coverage.
 - Developed a ServiceNow ITSM conversational agent to reduce recovery time during IT outages using a Retrieval-Augmented Generation (RAG) framework with custom data indexes and retriever for prompts referencing enterprise-specific identifiers.
 
-#### Senior Principal Engineer | Aug 2020 - May 2023
+**Senior Principal Engineer**, Aug 2020 - May 2023
 - Topic modeling (NLP) of IT incident and problem records, providing insight into operational pain points and automation opportunities.
 - Graph analysis of network traffic for implementation of micro-segmentation.
 - Engineered an automated quality assurance BI solution that delivered critical insights into data integrity for a newly implemented infrastructure asset inventory system, playing a key role in driving a strategic shift.
@@ -40,45 +40,45 @@ I welcome connections to collaborate, share ideas, or discuss opportunities in d
 - Mentor for Women in Analytics & Data Science and Optum Tech University.
 
 #### Medica
-#### Director Business Intelligence | Nov 2019 - Aug 2020
+**Director Business Intelligence**, Nov 2019 - Aug 2020
 - Developed a multi-year data and analytics strategy with roadmaps for core data standardization, data architecture, data governance, and BI technologies.
 - Implemented Agile Scrum and resource capacity planning, increasing team cohesion and transparency for business stakeholders.
 - Led a cross-departmental data analyst workgroup, hosting monthly events with speakers and exercises to strengthen and expand the data analyst community.
 
-#### Finance Manager | May 2018 - Nov 2019
+**Finance Manager**, May 2018 - Nov 2019
 - Standardized and automated physician reimbursement processes, achieving a 26% increase in team productivity over 18 months.
 - Designed and taught bi-weekly SQL classes for healthcare analyst team members.
 
-#### Provider Measurement Analyst Lead | Nov 2017 - May 2018
+**Provider Measurement Analyst Lead**, Nov 2017 - May 2018
 - Developed scalable, automated analytical reporting suites for measuring Individual & Family Business Accountable Care Organization product performance and facilitating population health management.
 
 ### Rocky Mountain Health Plans
-#### Senior Manager Data Services | Jan 2016 - Nov 2017
+**Senior Manager Data Services**, Jan 2016 - Nov 2017
 - Reported to Chief Information Officer, managing the architecture, development, and quality of data warehousing and business intelligence functions.
 - Collaborated with business, development, and system infrastructure to improve business processes and build innovative and scalable analytic tools.
 - Exchanged and integrated enrollment, provider, claims, prior authorization, and other healthcare data from disparate sources.
 - Established and led an enterprise data governance program.
 
-#### Manager Member Benefit Configuration & Business Analysis | May 2014 - Jan 2016
+**Manager Member Benefit Configuration & Business Analysis**, May 2014 - Jan 2016
 - Architected and drove benefit configuration implementation for ICD-10 conversion.
 - Collaborated with Sales & Marketing management to design benefit packages that could be implemented smoothly and systematically, including specialized pilot programs.
 - Managed the configuration and QA of member benefit plans, member accumulators, prior authorizations, and medical code sets (CPT/HCPCS/ICD-9/ICD-10) and mappings.
 
-#### Senior Health Care Economic Analyst | Feb 2013 - May 2014
+**Senior Health Care Economic Analyst**, Feb 2013 - May 2014
 - Provided guidance, analysis, and solutions for ACA Risk Adjustment and Cost-Share Reduction Reconciliation.
 - Produced analysis on provider network, member enrollment, and claims and encounter data, including reports for Medicaid ASO Payment Reconciliation.
 - Developed models to determine revenue impacts of provider contract proposals and compare market standard provider reimbursement methodologies.
 
-#### Validation & Testing Analyst | Apr 2012 - Feb 2013
+**Validation & Testing Analyst**, Apr 2012 - Feb 2013
 - Designed and automated test plans for medical and drug products, provider contracts, and provider fee schedules, making system validations more thorough, accurate, and efficient.
 
-####  Contract Configuration Analyst | Feb 2011 - Apr 2012
+**Contract Configuration Analyst**, Feb 2011 - Apr 2012
 - Built research tools to gather and analyze system data, including claims, provider records, provider agreements, fee schedules, member records, and medical products.
 - Configured provider contracts and fee schedules using NetworX and Facets.
 
 ### Colorado Mesa University
 
-#### Research | 2003 - 2006
+**Research**, | 2003 - 2006
 - Department of Business: Developed and maintained database of key Mesa County and City of Grand Junction economic indicators and produced quarterly newsletter.
 - Department of Biology: Developed algorithm to determine the sample period necessary to detect significant spatial structure in butterfly communities with ecological indices.
 - Department of Mathematics: Analyzed limitations of first-order language using Ehrenfeucht-Fraissé Games.
@@ -87,16 +87,14 @@ I welcome connections to collaborate, share ideas, or discuss opportunities in d
 ## Education
 
 **MS in Data Science**, University of Denver, 2022
-
-  * 4.0 GPA
-  * Student Ambassador
+- 4.0 GPA
+- Student Ambassador
 
 **BS in Mathematics**, Colorado Mesa University, 2006
-
-  * 4.0 GPA, *Summa Cum Laude*
-  * Major Field Test for Mathematics, Top 10% Nationally
-  * Outstanding Math Graduate, 2006
-  * National Merit Scholar, 2002
+- 4.0 GPA, *Summa Cum Laude*
+- Major Field Test for Mathematics, Top 10% Nationally
+- Outstanding Math Graduate, 2006
+- National Merit Scholar, 2002
 
 
 ## Sample Projects
