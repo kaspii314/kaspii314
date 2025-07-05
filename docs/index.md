@@ -160,4 +160,4 @@ Photo by <a href="https://unsplash.com/@antomeneghini?utm_source=unsplash&utm_me
 
 Explore flavors of data science flavors wite me, including classic algorithms and techniques for clustering, regression, and classification! This repo is intended for data science beginners who would like a few data mining examples to get started.
 
-![Kate Stadelman](img/linkedin-bkg_data.png){ width="100%" }
+<!-- ![Kate Stadelman](img/linkedin-bkg_data.png){ width="100%" } -->
