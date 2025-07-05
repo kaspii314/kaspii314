@@ -39,7 +39,7 @@ I welcome connections to collaborate, share ideas, or discuss opportunities in d
 - Administration of Azure CosmosDB for MongoDB.
 - Mentor for Women in Analytics & Data Science and Optum Tech University.
 
-#### Medica
+### Medica
 **Director Business Intelligence**, Nov 2019 - Aug 2020
 - Developed a multi-year data and analytics strategy with roadmaps for core data standardization, data architecture, data governance, and BI technologies.
 - Implemented Agile Scrum and resource capacity planning, increasing team cohesion and transparency for business stakeholders.
@@ -77,8 +77,7 @@ I welcome connections to collaborate, share ideas, or discuss opportunities in d
 - Configured provider contracts and fee schedules using NetworX and Facets.
 
 ### Colorado Mesa University
-
-**Research**, | 2003 - 2006
+**Research**, 2003 - 2006
 - Department of Business: Developed and maintained database of key Mesa County and City of Grand Junction economic indicators and produced quarterly newsletter.
 - Department of Biology: Developed algorithm to determine the sample period necessary to detect significant spatial structure in butterfly communities with ecological indices.
 - Department of Mathematics: Analyzed limitations of first-order language using Ehrenfeucht-Fraissé Games.
